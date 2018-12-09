@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   font-family: "Open Sans", sans-serif;
-  line-height: 1.4;
+  line-height: 1.45;
 }
 
 *, *::before, *::after {
@@ -25,7 +25,6 @@ p {
   margin-top: .38em;
   font-size: 2rem;
   font-style: italic;
-  font-weight: lighter;
 }
 
 .banner {
